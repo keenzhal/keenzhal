@@ -23,8 +23,3 @@
 
 <br>
 
-
-### Discord Guild
-<a href="https://discord.gg/aa7nqwEv">
-  <img src="https://invidget.switchblade.xyz/9yCwFa42XR" />
-</a>
