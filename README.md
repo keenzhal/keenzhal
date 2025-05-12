@@ -1,25 +1,60 @@
-### Hi there 🧡
+<h1 align="center">Hey, I'm yeano9 👋</h1>
+<p align="center">
+  Cybersecurity Student  | Frontend & Bot Developer | Linux Enthusiast 
+</p>
+
+---
+
+## About Me
+
+- I'm a 18-year-old cybersecurity student at **Astana IT University**
+  Passionate about **technology, learning, and building cool stuff**
+- Programming since I was 14 — started with bots and moved into full-stack
+- Mainly focused on **Frontend Development**, but exploring **Backend & Security**
+- Currently working on **Minecraft plugins**
+- Strong interest in **AI**, **Linux systems**, and **ethical hacking**
+- Dreaming to work at top-tier tech companies like **Google** or **Microsoft**
+- I love Minecraft and often build custom maps, systems, and experiences
+- Always solving problems and pushing my skills to the next level
+
+---
+
+## Technologies I Use
+
+<div align="center">
+
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeano9&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yeano9&theme=tokyonight" height="165">
+</div>
+
+---
+
+##  Connect With Me
+
+-  Telegram: [@yeano9](https://t.me/yeano9)  
+-  Email: kalmakhan567@mail.ru 
+-  Discord: uioqa (yeano9)
 
 
-<br>
-<table>
-    <tr>
-        <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=K-een-een&count_private=true&show_icons=true&theme=highcontrast" alt="Stats">
-        </td>
-        <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-een-een&layout=compact&theme=highcontrast" alt="Languages">
-        </td>
-    </tr>
-    <tr>
-        <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-een-een&theme=highcontrast" alt="GitHub-Streak">
-        </td>
-    </tr>
-    <tr>
-        <img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=K-een-een&color=00dcff" />
-    </tr>
-</table>
+---
 
-<br>
+> “Stay hungry, stay foolish.” – Steve Jobs
 
