@@ -61,7 +61,10 @@
 -  Telegram: [@yeano9](https://t.me/yeano9)  
 -  Email: kalmakhan567@mail.ru 
 -  Discord: uioqa (yeano9)
-
+    Discord Guild
+<a href="https://discord.gg/368aQTySkd">
+  <img src="https://invidget.switchblade.xyz/368aQTySkd" />
+</a>
 
 ---
 
