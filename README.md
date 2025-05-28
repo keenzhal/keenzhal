@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm yeano9 👋</h1>
 <p align="center">
-  Cybersecurity Student  | Frontend & Bot Developer | Linux Enthusiast 
+  Cybersecurity Student  | Frontend &  Bot Developer | Linux Enthusiast 
 </p>
 
 ---
