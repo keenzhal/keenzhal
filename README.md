@@ -11,7 +11,6 @@
   Passionate about **technology, learning, and building cool stuff**
 - Programming since I was 14 — started with bots and moved into full-stack
 - Mainly focused on **Frontend Development**, but exploring **Backend & Security**
-- Currently working on **Minecraft plugins**
 - Strong interest in **AI**, **Linux systems**, and **ethical hacking**
 - Dreaming to work at top-tier tech companies like **Google** or **Microsoft**
 - I love Minecraft and often build custom maps, systems, and experiences
