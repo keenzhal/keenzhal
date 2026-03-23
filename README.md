@@ -7,7 +7,7 @@
 
 ## About Me
 
-- I'm a 18-year-old cybersecurity student at **Astana IT University**
+- I'm a 19-year-old cybersecurity student at **Astana IT University**
   Passionate about **technology, learning, and building cool stuff**
 - Programming since I was 14 — started with bots and moved into full-stack
 - Mainly focused on **Frontend Development**, but exploring **Backend & Security**
